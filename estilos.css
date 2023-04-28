@@ -1,0 +1,62 @@
+#banerhr {
+    background-color: aquamarine;
+    padding: 20px; width: 1000px;
+    margin: 0px; right: 200px;
+}
+body {
+    background-color: rgb(226, 66, 93);
+}
+h1 {
+    margin: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 72px;
+    text-align: center;     
+}
+h2 {
+    background-color: lightpink;
+}
+#cursos {
+    margin: 30px;
+}
+#datos {
+    margin: 30px; 
+}
+
+#margenestudios {
+    margin: 30px;
+}
+
+#margenempleo {
+    margin: 30px;
+
+}
+
+#margenidioma {
+    margin: 30px;
+}
+
+
+
+#desplegable{ 
+    background-color: lightpink;
+}
+
+
+#objetivos {
+    margin: 30px
+
+    }
+#formulario {
+    margin: 30px;
+   }
+
+#asunto {
+    margin: 30px;
+}
+#mensaje {
+    margin: 30px;
+}
+#enviar {
+    margin: 30px;
+}
+
